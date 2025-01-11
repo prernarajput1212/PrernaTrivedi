@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Prerna Trivedi!  
-
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664.gif">
 Welcome to my GitHub profile! I'm a passionate **Software Developer** with a strong foundation in building scalable and robust applications using modern technologies.  
 
 ## 🌟 About Me  

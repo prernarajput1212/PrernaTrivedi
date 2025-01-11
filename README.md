@@ -6,7 +6,8 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** with a str
 - 💻 **Expertise:** Java | Spring Boot | MySQL | AWS (Practitioner Level) | WebSocket | Redis | Kafka  
 - 🚀 **Experience:** Designing, Developing, Managing web applications.  
 - 🌱 **Learning Goals:** Continuously enhancing my skills in distributed systems, DevOps practices, and cutting-edge cloud technologies.  
-- 🤝 **Collaboration:** I enjoy contributing to open-source projects, mentoring peers, and collaborating on challenging problems.  
+- 🤝 **Collaboration:** I enjoy contributing to open-source projects, mentoring peers, and collaborating on challenging problems.
+- - ✍️ **Writing:** I regularly write articles on [CS Maven](https://csmaven.com/) to share knowledge and insights.  
 
 ## 🛠️ Technical Skills  
 - **Programming Languages:** Java, C  
